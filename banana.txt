@@ -1,0 +1,4 @@
+archivo de prueba de frutas
+lista de frutas
+frutas de color rojo
+frutas verdes
